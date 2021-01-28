@@ -1,0 +1,14 @@
+increment
+decrement
+a+ = 1
+//
+module operator
+less than | greater than | equal to => returns booleans
+LOGICAL OPERATORS:
+		NOT(inverse)
+		AND(All True)
+		OR(similar to plus)
+Python List: indexing, append, insert, count, extend, copying list, remove, pop, sorting, return a new list
+inplace true=> original me se remove krdo
+inplace false=> original me se remove nhi horaha
+Slicing always goes from left to right
